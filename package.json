@@ -12,7 +12,16 @@
   },
   "dependencies": {
     "rgui-ui-base": "github:ydfe/ui-base#next",
-    "rgui-ui-calendar": "github:ydfe/ui-calendar#master"
+    "rgui-ui-drag": "github:ydfe/ui-drag#master",
+    "rgui-ui-calendar": "github:ydfe/ui-calendar#master",
+    "rgui-ui-listview": "github:ydfe/ui-listview#master",
+    "rgui-ui-modal": "github:ydfe/ui-modal#master",
+    "rgui-ui-tabs": "github:ydfe/ui-tabs#master",
+    "rgui-ui-select": "github:ydfe/ui-select#master",
+    "rgui-ui-overlay": "github:ydfe/ui-overlay#master",
+    "rgui-ui-toast": "github:ydfe/ui-toast#master",
+    "rgui-ui-pager": "github:ydfe/ui-pager#master",
+    "rgui-ui-slider": "github:ydfe/ui-slider#master"
   },
   "author": "gssan",
   "license": "MIT",
